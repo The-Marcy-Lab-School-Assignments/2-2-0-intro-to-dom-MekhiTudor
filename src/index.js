@@ -9,5 +9,5 @@ const fromScratch = () => {
   document.body.append(firstElement);
   document.body.append(secondElement);
 };
-
+/** FEEDBACK: In the future, use a runner function! Love that you are using a function! */
 fromScratch();

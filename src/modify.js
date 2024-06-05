@@ -1,3 +1,4 @@
+/** FEEDBACK: Great job getting all test cases to pass! */
 const getMainHeadingText = () => {
   const h1 = document.querySelector("#main-heading");
   console.log(h1.textContent);
